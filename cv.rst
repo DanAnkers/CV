@@ -28,7 +28,7 @@ Technical skills and certifications
 :Virtualisation: Good knowledge of VMWare, Xen and KVM virtualisation platforms.  VCP certification.
 :Voice Over IP: Good knowledge of SIP and PSTN interworking using Cisco and Asterisk.
 :Operating Systems: Strong knowledge of Unix/Linux, knowledge of Windows.
-:Coding and scripting: Some knowledge of C, C++, Perl, PHP and Bash scripting.
+:Coding and scripting: Some knowledge of C, C++, Python, Perl, PHP and Bash scripting.
 :Database: SQL, MySQL, PosgreSQL.
 
 
@@ -41,11 +41,14 @@ Employment History
  * Consultant to customers on network design and implementation.
  * Consultant to customers on network security issues.
  * Responsible for design, installation and maintenance of Cisco and Asterisk Voice Over IP based least cost routing product and VoIP PBXs for internal and customer use.
- * Designed and implemented infrastructure as a service public cloud platform based on KVM and GlusterFS.
+ * Designed and implemented infrastructure as a service public cloud platform based on KVM and GlusterFS, including technical and business analysis of various possible solutions.
  * Responsible for a wide range of ISP systems including mail with Postfix, DNS with tinydns, Unbound and nsd, web with Apache and nginx and RADIUS with FreeRADIUS.
  * Implemented process improvements including RANCID configuration management for routers, Puppet configuration management for servers.
 
 :2003 (7 months): Technical Director - Freegard Ankers Consultants Ltd.
+
+ * Designed a Linux based wireless hotspot product.
+ * Offered Linux and network consultancy to local businesses.
 
 :2000 - 2003: Techician 2B / Technical Officer - `Manx Telecom Ltd`_
 
@@ -55,11 +58,11 @@ Employment History
 
 :1998: `NFW Inspection Ltd`_ (Holiday job)
 
- * Designed and implemented Linux based e-mail and print server system
+ * Designed and implemented Linux based e-mail and print server system.
 
 :1997: Workstation Source Ltd (Holiday job)
 
- * Authored technical documentation and troubleshooting manual for industrial test systems
+ * Authored technical documentation and troubleshooting manual for industrial test systems.
 
 .. _`Domicilium (IOM) Ltd`: http://www.domicilium.com
 .. _`Manx Telecom Ltd`: http://www.manx-telecom.com
