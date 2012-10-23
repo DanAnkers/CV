@@ -17,9 +17,12 @@ Curriculum Vitae
 
 Education
 ---------
-:1997-2000: Bachelor of Engineering in Elecronic Engineering at the University of Nottingham
-:1995-1997: A Levels at Slough Grammar School: Maths, Physics, Computer Science, Psychology
-:1993-1995: GCSEs at Slough Grammar School 
+:1997-2000: Bachelor of Engineering in Elecronic Engineering at the University of Nottingham (2:2)
+
+ * Final year project involved building and programming a PIC microcontroller based data sampler and associated PC program (in C) to receive and save the data.
+
+:1995-1997: A Levels at Slough Grammar School: Maths (C), Physics (C), Computer Science (C), Psychology (D)
+:1993-1995: GCSEs at Slough Grammar School (5 A, 3 B, 2 C)
 
 
 Technical skills and certifications
@@ -31,6 +34,9 @@ Technical skills and certifications
 :Coding and scripting: Some knowledge of C, C++, Python, Perl, PHP and Bash scripting.
 :Database: SQL, MySQL, PosgreSQL.
 
+.. raw:: pdf
+
+    PageBreak
 
 Employment History
 ------------------
