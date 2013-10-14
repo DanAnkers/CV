@@ -27,13 +27,13 @@ Education
 
 Technical skills and certifications
 -----------------------------------
-:Networking: Strong knowledge of Cisco routers and switches, BGP, interior routing protocols.  CCNP certification.
+:Networking: Strong knowledge of Cisco routers and switches, BGP, interior routing protocols.  Actively investigating SDN technologies.  CCNP certification.
 :Virtualisation: Good knowledge of VMWare, Xen and KVM virtualisation platforms.  VCP certification.
 :Cloud: Knowledge of IaaS using OpenStack and other systems. Knowledge of PaaS using OpenShift. Knowledge of horizontal disk scaling using Gluster and other systems
 :Voice Over IP: Good knowledge of SIP and PSTN interworking using Cisco and Asterisk.
 :Operating Systems: Strong knowledge of Unix/Linux, knowledge of Windows.
 :Coding and scripting: Some knowledge of C, C++, Python, Perl, PHP, node.js and Bash scripting.
-:Database: SQL, MySQL, PosgreSQL.
+:Database: SQL, MySQL, PosgreSQL, some CouchDB, some MongoDB.
 
 .. raw:: pdf
 
