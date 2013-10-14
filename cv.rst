@@ -5,14 +5,14 @@ Daniel Ankers
 Curriculum Vitae
 ----------------
 
-+------------------------------------+-------------------------------+
-|:Address: 31 Close Cowley,          |:Born: 26/1/1979               |
-|          Douglas,                  |:Nationality: British          |
-|          Isle of Man,              |:IOM Work Permit: Not required |
-|          IM2 2HU                   |:European Visa: Not required   |
-|:Tel: +44 (0)7624481631             |:US Visa: Required             |
-|:Email: danielankers@hotmail.com    |                               |
-+------------------------------------+-------------------------------+
++------------------------------------+-----------------------------------+
+|:Address: 31 Close Cowley,          |:Born: 26/1/1979                   |
+|          Douglas,                  |:Nationality: British              |
+|          Isle of Man,              |:IOM Work Permit: Not required     |
+|          IM2 2HU                   |:European Visa: Not required       |
+|:Tel: +44 (0)7624481631             |:US Visa: Required                 |
+|:Email: danielankers@hotmail.com    |:Driving Licence: Full             |
++------------------------------------+-----------------------------------+
 
 
 Education
